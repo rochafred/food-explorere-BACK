@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "some command to be run",
-    "test": "(eslint lib || true) && jest"    
+     "start": "some command to be run"
   },
   "keywords": [],
   "author": "",
