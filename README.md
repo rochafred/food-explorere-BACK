@@ -1,6 +1,6 @@
 # food-explorere-BACK
 LINK DEPLOY
-https://rocketbackend-11-4641.onrender.com
+https://explorer-back1-1.onrender.com/
 
 O programa possui duas personas distintas: o administrador e os usuários.
 O administrador é o responsável pelo gerenciamento do restaurante e tem permissão para criar, visualizar, editar e excluir qualquer prato do cardápio a qualquer momento. Cada prato cadastrado deve conter uma imagem, um nome, uma categoria, uma breve descrição, os ingredientes e o preço. Ao clicar no botão "adicionar prato", o administrador receberá uma mensagem de confirmação e será redirecionado para a página principal do sistema.
